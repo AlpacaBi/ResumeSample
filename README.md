@@ -15,10 +15,10 @@
  - 本科/韶关学院/物联网工程
  - 工作年限：1年
  - 技术博客：https://alpaca.run
- - Github：https://github.com/alpacabi
+ - Github：https://github.com/AlpacaBi
 
  - 期望职位：Web前端工程师，Web全栈工程师（golang）
- - 期望薪资：月薪9k~12k
+ - 期望薪资：月薪9k~13k
  - 期望城市：广州/深圳
 
 ---
@@ -27,38 +27,53 @@
 
 ### Web全栈工程师(golang方向)-广州好智信息技术有限公司（2018年12月 ~ 至今）  
 
+#### 好智学在线培训系统 （https://xue.hzxue.com）
+- *工作内容*:
+    1. 功能模块开发，根据和产品经理和UI设计师交流，从前端页面到后端数据库操作开发出一个功能
+    2. 根据UI设计师给出的设计稿，重写一些功能模块的CSS样式
+    3. 偶尔会根据客户的定制需求开发功能
+- *使用技术*:
+    1. 前端使用的是网易出品的Regular.js框架
+    2. 后端使用Golang
+    3. 数据层使用MySQL和Redis
+- *在这个项目中遇到了最困难的问题和解决方案*:  
+    有一次接到一个需求：在网页上直接播放原生PPT。由于市面上没有开源的PPT组件，所以当时友商的普遍方案是把PPT转换成PDF直接在PDF组件上播,但是这么做的效果是PPT的动画与特效会丢失。后来我找到了微软的OfficeOnlineServer，这是一个给PPT网络地址就能原生播放PPT的系统，虽然不开源但是能免费下载部署，于是我部署了上去并以iframe的形式嵌入到项目中，并使用HTML5的postMessage API实现两个系统的跨域数据通信，从而在项目能以接近原生软件的效果控制并播放PPT，并无丢失任何效果，。
 
-
-#### 好智学在线培训系统 
-我在此项目负责了哪些工作，分别在哪些地方做得出色/和别人不一样/成长快，这个项目中，我最困难的问题是什么，我采取了什么措施，最后结果如何。这个项目中，我最自豪的技术细节是什么，为什么，实施前和实施后的数据对比如何，同事和领导对此的反应如何。
-
-
-#### 好智学官网 
-我在此项目负责了哪些工作，分别在哪些地方做得出色/和别人不一样/成长快，这个项目中，我最困难的问题是什么，我采取了什么措施，最后结果如何。这个项目中，我最自豪的技术细节是什么，为什么，实施前和实施后的数据对比如何，同事和领导对此的反应如何。
-
+#### 好智学官网 （https://www.hzxue.com）
+- *工作内容*：根据UI设计师给出的设计稿，开发官网内容和活动页
+- *使用技术*：纯CSS,animate.css
+- *个人评价*：从这个项目学到了不少CSS布局知识和动画
 
 ---
 
 ## 开源项目和作品
-这一段用于放置工作以外的个人项目
 
 ### 参与过的开源项目
- - [plyr.js](https://github.com/AlpacaBi/plyr)：一个国外的轻量级的开源视频组件，我为这个项目添加了视频markers功能和翻译了中文readme
- - [alpaca_blog](https://github.com/AlpacaBi/alpaca_blog)：一个基于typescript+golang+vue+graphql的个人博客系统
 
-### 技术文章
-（挑选你写作或翻译的技术文章，好的文章可以从侧面证实你的表达和沟通能力，也帮助招聘方更了解你）
+#### plyr.js(https://github.com/AlpacaBi/plyr)
+一个国外的轻量级的开源视频组件
+1. 我为这个库加入了视频marker进度条时间点标记功能（类似爱奇艺那种时间点剧透）
+2. 翻译了中文版readme
+#### alpaca_blog(https://github.com/AlpacaBi/alpaca_blog)
+一个基于TypeScript+Golang+Vue+Graphql的个人博客系统,大胆使用一切新技术
+1. 前端部分使用了TypeScript+Vue.js+vuex组合，UI层用的ElementUI,动画效果用的Amimate.css
+2. 后端部分使用了Golang+Gin组合
+3. 数据层用的是MySQL和Redis组合，后期会加上Graphql
 
-- [一个产品经理眼中的云计算：前生今世和未来](http://get.jobdeer.com/706.get)
-- [来自HeroKu的HTTP API 设计指南(翻译文章)](http://get.jobdeer.com/343.get) （ ```好的翻译文章可以侧证你对英文技术文档的阅读能力```）
-
+---
 
 ## 技能清单
 
-以下均为我熟练使用的技能
+以下均为我熟练使用的技能(在工作中和业余开发有使用过)
 
-- Web开发：PHP/Hack/Node
-- Web框架：ThinkPHP/Yaf/Yii/Lavaral/LazyPHP
+- JavaScript：
+    - 了解作用域、原型链、闭包、柯里化、事件循环等概念
+    - 了解ES6大部分机制，vue3推出后还特地研究了Proxy机制
+    - 会使用Promise或者async/await处理异步问题
+    - 不过对用JavaScript的DOM原生API操作DOM的能力不强
+- CSS：
+    - 了解盒子模型和各种布局,熟练使用常用CSS配置
+    - 初步能使用CSS动画
 - 前端框架：Bootstrap/AngularJS/EmberJS/HTML5/Cocos2dJS/ionic
 - 前端工具：Webpack/SaSS/LeSS/PhoneGap
 - 数据库相关：MySQL/PgSQL/PDO/SQLite
@@ -66,92 +81,6 @@
 - 单元测试：PHPUnit/SimpleTest/Qunit
 - 云和开放平台：SAE/BAE/AWS/微博开放平台/微信应用开发
 
-### 参考技能关键字
-
-本技能关键字列表是从最近招聘Web前端的数百份JD中统计出来的，括号中是出现的词频。如果你的简历要投递给有机器（简历分选系统）和不如机器（不懂技术的HR）筛选简历环节的地方，请一定从下边高频关键词中选择5～10个适合你自己的。
-
-- web(889)
-- javascript(596)
-- css(555)
-- html(430)
-- jquery(323)
-- html5(312)
-- js(311)
-- ajax(196)
-- css3(176)
-- w3c(168)
-- div(156)
-- php(134)
-- xhtml(106)
-- java(92)
-- ui(78)
-- photoshop(75)
-- dom(63)
-- xml(56)
-- json(54)
-- yui(51)
-- flash(45)
-- bootstrap(43)
-- python(43)
-- http(38)
-- dreamweaver(38)
-- ext(33)
-- linux(33)
-- seo(32)
-- prototype(29)
-- chrome(28)
-- pc(28)
-- nodejs(28)
-- firefox(26)
-- ps(25)
-- angularjs(25)
-- fireworks(24)
-- extjs(23)
-- safari(22)
-- www(22)
-- mobile(22)
-- jsp(22)
-- mvc(22)
-- backbone(21)
-- node(21)
-- ruby(20)
-- github(19)
-- ios(18)
-- ie6(18)
-- android(18)
-- asp(18)
-- sass(17)
-- wap(16)
-- mootools(16)
-- ie(16)
-- mysql(15)
-- flex(14)
-- firebug(13)
-- bom(13)
-- webapp(12)
-- less(12)
-- web2(11)
-- angular(10)
-- git(10)
-- dw(10)
-- as(10)
-- mac(10)
-- psd(8)
-- o2o(7)
-- dojo(7)
-- actionscript3(6)
-- grunt(5)
-- ue(5)
-- zepto(5)
-- actionscript(5)
-- ie8(5)
-- coffeescript(5)
-- django(4)
-
-
-
-
----
 
 ## 致谢
 感谢您花时间阅读我的简历，期待能有机会和您共事。
