@@ -5,7 +5,9 @@
 
 - 手机：17666503029
 - Email：let@alpaca.run 
-- 微信：workbiguokang
+- 微信：workbiguokang 
+- 个人网站：https://alpaca.run
+- Github：https://github.com/AlpacaBi
 
 ---
 
@@ -14,9 +16,6 @@
  - **毕国康**/男/1995 
  - 本科/韶关学院/物联网工程
  - 工作年限：1年
- - 技术博客：https://alpaca.run
- - Github：https://github.com/AlpacaBi
-
  - 期望职位：Web前端工程师，Web全栈工程师（golang）
  - 期望薪资：月薪9k~13k
  - 期望城市：广州/深圳
@@ -36,13 +35,10 @@
     1. 前端使用的是网易出品的Regular.js框架
     2. 后端使用Golang
     3. 数据层使用MySQL和Redis
-- *在这个项目中遇到了最困难的问题和解决方案*:  
-    有一次接到一个需求：在网页上直接播放原生PPT。由于市面上没有开源的PPT组件，所以当时友商的普遍方案是把PPT转换成PDF直接在PDF组件上播,但是这么做的效果是PPT的动画与特效会丢失。后来我找到了微软的OfficeOnlineServer，这是一个给PPT网络地址就能原生播放PPT的系统，虽然不开源但是能免费下载部署，于是我部署了上去并以iframe的形式嵌入到项目中，并使用HTML5的postMessage API实现两个系统的跨域数据通信，从而在项目能以接近原生软件的效果控制并播放PPT，并无丢失任何效果，。
 
 #### 好智学官网 （https://www.hzxue.com）
 - *工作内容*：根据UI设计师给出的设计稿，开发官网内容和活动页
 - *使用技术*：纯CSS,animate.css
-- *个人评价*：从这个项目学到了不少CSS布局知识和动画
 
 ---
 
@@ -74,6 +70,11 @@
 - CSS：
     - 了解盒子模型和各种布局,熟练使用常用CSS配置
     - 初步能使用CSS动画
+- Vue.js
+    - 熟练Vue.js的基本用法和api,拥有使用vue独立开发出一个产品的能力
+    - 熟练使用Vue全家桶（vue-cli、vue-router、vuex、element-ui等）
+    - 拥有用TypeScript在vue2.6开发的经验
+    - 了解Vue.js的一些基本原理（双向绑定，计算属性等等）
 - 前端框架：Bootstrap/AngularJS/EmberJS/HTML5/Cocos2dJS/ionic
 - 前端工具：Webpack/SaSS/LeSS/PhoneGap
 - 数据库相关：MySQL/PgSQL/PDO/SQLite
