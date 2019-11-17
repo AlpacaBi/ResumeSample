@@ -28,9 +28,12 @@
 
 #### 好智学在线培训系统 （https://xue.hzxue.com）
 - *工作内容*:
-    1. 功能模块开发，根据和产品经理和UI设计师交流，从前端页面到后端数据库操作开发出一个功能
-    2. 根据UI设计师给出的设计稿，重写一些功能模块的CSS样式
-    3. 偶尔会根据客户的定制需求开发功能
+    1. 功能模块开发，根据和产品经理和UI设计师交流，开发出PC端和H5移动端前端页面
+    2. 同时也要开发对于的js业务和golang后台业务
+    3. 根据UI设计师给出的设计稿，重写一些功能模块的CSS样式
+    4. 根据测试工程师的反馈修改bug
+    5. 偶尔会根据客户的定制需求开发功能
+    6. 偶尔要进行ie浏览器适配工作
 - *使用技术*:
     1. 前端使用的是网易出品的Regular.js框架
     2. 后端使用Golang
@@ -66,21 +69,34 @@
     - 了解作用域、原型链、闭包、柯里化、事件循环等概念
     - 了解ES6大部分机制，vue3推出后还特地研究了Proxy机制
     - 会使用Promise或者async/await处理异步问题
-    - 不过对用JavaScript的DOM原生API操作DOM的能力不强
+    - 了解大多数原生JavaScript的DOM操作API
 - CSS：
     - 了解盒子模型和各种布局,熟练使用常用CSS配置
-    - 初步能使用CSS动画
+    - 初步能使用CSS动画，熟练使用animate.css
+    - 了解大多数CSS3新特性
+    - 有过Less和Sass开发经验
 - Vue.js
-    - 熟练Vue.js的基本用法和api,拥有使用vue独立开发出一个产品的能力
+    - 熟练Vue.js的基本用法和API,拥有使用Vue独立开发出一个产品的能力
     - 熟练使用Vue全家桶（vue-cli、vue-router、vuex、element-ui等）
     - 拥有用TypeScript在vue2.6开发的经验
     - 了解Vue.js的一些基本原理（双向绑定，计算属性等等）
-- 前端框架：Bootstrap/AngularJS/EmberJS/HTML5/Cocos2dJS/ionic
-- 前端工具：Webpack/SaSS/LeSS/PhoneGap
-- 数据库相关：MySQL/PgSQL/PDO/SQLite
-- 版本管理、文档和自动化部署工具：Svn/Git/PHPDoc/Phing/Composer
-- 单元测试：PHPUnit/SimpleTest/Qunit
-- 云和开放平台：SAE/BAE/AWS/微博开放平台/微信应用开发
+- 后端业务
+    - 熟练使用go语言开发后台业务
+    - 有过使用node.js开发后台业务的经验（Express）
+- 数据层业务
+    - 会使用mysql的增删查改、连表查询、触发器等SQL操作
+    - 会使用基本的redis命令（get、set、delete）
+- 开发工具
+    - 在查看Webpack文档的前提下，能修改和增加Webpack配置
+    - 熟练使用git工具，能用git多人协作
+- 其他
+    - 熟练使用Linux系统（平时用Linux系统做开发）
+    - 有过在微信平台开发经验（微信网页开发、微信JSAPI接入等）
+    - 会使用Python开发小工具
+    - 拥有良好的英文技术文档阅读能力
+    - 熟练使用markdown写文档（本简历就是用markdown写的）
+    - Github活跃分子
+
 
 
 ## 致谢
