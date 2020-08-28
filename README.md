@@ -5,7 +5,7 @@
 ## 联系方式
 
 - 手机：17666503029
-- Email：let@alpaca.run 
+- Email：biguokang@outlook.com 
 - 微信：workbiguokang 
 - 个人网站：https://alpaca.run
 - Github：https://github.com/AlpacaBi
@@ -16,7 +16,7 @@
 
  - **毕国康**/男/1995 
  - 本科/韶关学院/物联网工程
- - 工作年限：2年
+ - 工作年限：3年
  - 期望职位：Web前端工程师，Web全栈工程师（golang）
  - 期望薪资：知乎入门水平
  - 期望城市：广州/深圳
@@ -25,7 +25,7 @@
 
 ## 工作经历
 
-### Web全栈工程师(golang方向)-广州好智信息技术有限公司（2018年12月 ~ 2019年12月）  
+### Web全栈工程师(golang方向)-广州好智信息技术有限公司（2017年12月 ~ 2019年12月）  
 
 #### 好智学在线培训系统 （https://xue.hzxue.com）
 - *工作内容*:
