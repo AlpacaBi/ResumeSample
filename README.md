@@ -25,6 +25,13 @@
 
 ## 工作经历
 
+### 前端工程师-广东威创视讯科技股份有限公司（2019年12月 ~ 至今）
+#### Vismart可视化指挥平台
+- *工作内容*:  
+    1. 开发大屏可视化应用
+- *使用技术*:  
+    1. 前端组件化遵循WebComponent标准，使用polymer3框架开发
+
 ### Web全栈工程师(golang方向)-广州好智信息技术有限公司（2017年12月 ~ 2019年12月）  
 
 #### 好智学在线培训系统 （https://xue.hzxue.com）
@@ -40,12 +47,6 @@
     2. 后端使用Golang
     3. 数据层使用MySQL和Redis
 
-### 软件工程师-广东威创视讯科技股份有限公司（2019年12月 ~ 至今）
-#### ICVP智汇融合平台
-- *工作内容*:  
-    1. 开发大屏可视化应用
-- *使用技术*:  
-    1. 使用polymer3框架开发
 
 ---
 
@@ -57,11 +58,14 @@
 一个国外的轻量级的开源视频组件
 1. 我为这个库加入了视频marker进度条时间点标记功能（类似爱奇艺那种时间点剧透）
 2. 翻译了中文版readme
-#### alpaca_blog(https://github.com/AlpacaBi/alpaca_blog)
-一个基于TypeScript+Golang+Vue+Graphql的个人博客系统,大胆使用一切新技术
+#### alpaca_run(https://github.com/AlpacaBi/alpaca_run)
+一个基于TypeScript+Golang+Vue+Graphql的个人网站,大胆使用一切新技术
 1. 前端部分使用了TypeScript+Vue.js+vuex组合，UI层用的ElementUI,动画效果用的Amimate.css
 2. 后端部分使用了Golang+Gin组合
 3. 数据层用的是MySQL和Redis组合，后期会加上Graphql
+#### qrcode_terminal(https://github.com/AlpacaBi/qrcode_terminal)
+为Deno平台开发的终端二维码显示库
+
 
 ---
 
@@ -84,6 +88,9 @@
     - 熟练使用Vue全家桶（vue-cli、vue-router、vuex、element-ui等）
     - 拥有用TypeScript在vue2.6开发的经验
     - 了解Vue.js的一些基本原理（双向绑定，计算属性等等）
+    - 熟练掌握Vue3的Composition API开发
+- 可视化
+    - 熟练使用Echarts、G6图表库开发可视化应用
 - 后端业务
     - 熟练使用go语言开发后台业务
     - 有过使用node.js开发后台业务的经验（Express）
